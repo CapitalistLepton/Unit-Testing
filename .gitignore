@@ -1,0 +1,10 @@
+# package directories
+node_modules/
+jspm_packages/
+
+# Coverage files
+.nyc_output/
+coverage/
+
+# Mac OS
+.DS_Store
